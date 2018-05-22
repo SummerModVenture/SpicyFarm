@@ -1,4 +1,6 @@
-import com.example.examplemod.Blocks.BlockBasic;
+package com.example.examplemod.Init;
+
+import com.example.examplemod.Blocks.memeblock;
 import com.example.examplemod.MainMod;
 import net.minecraft.block.Block;
 import net.minecraft.client.renderer.block.model.ModelResourceLocation;
@@ -17,7 +19,7 @@ public class ModBlocks {
     static Block tutorialBlock;
 
     public static void init() {
-        tutorialBlock = new BlockBasic("tutorial_block", Material.ROCK);
+        tutorialBlock = new memeblock("tutorial_block", Material.ROCK);
     }
 
     @SubscribeEvent
