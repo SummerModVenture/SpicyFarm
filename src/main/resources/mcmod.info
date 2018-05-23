@@ -1,6 +1,6 @@
 [
 {
-  "modid": "examplemod",
+  "modid": "SpicyFarm",
   "name": "Spicy Farm",
   "description": "Makes Farming Spicy.",
   "version": "${version}",
