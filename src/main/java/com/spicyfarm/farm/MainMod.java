@@ -28,6 +28,7 @@ public class MainMod
     public void preInit(FMLPreInitializationEvent event)
     {
         logger = event.getModLog();
+        ModItems.init();
     }
 
     @EventHandler
