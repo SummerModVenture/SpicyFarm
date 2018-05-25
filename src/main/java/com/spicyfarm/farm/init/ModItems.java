@@ -16,7 +16,7 @@ public class ModItems {
     static Item tutorialItem;
 
     public static void init() {
-        tutorialItem = new ItemBasic("tutorialItem");
+        tutorialItem = new ItemBasic("tutorialitem");
     }
 
     @SubscribeEvent
