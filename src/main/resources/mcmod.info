@@ -1,13 +1,13 @@
 [
 {
-  "modid": "SpicyFarm",
+  "modid": "spicyfarm",
   "name": "Spicy Farm",
   "description": "Makes Farming Spicy.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
+  "authorList": ["ninjabou"],
   "credits": "ninjabou",
   "logoFile": "",
   "screenshots": [],
