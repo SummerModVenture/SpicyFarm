@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "spicyfarm:items/tutorial_item"
+    "layer0": "spicyfarm:items/tutorialitem"
   },
 
   "display": {
